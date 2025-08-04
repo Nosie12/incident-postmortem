@@ -83,11 +83,3 @@ The attacker used a known **Spring4Shell PoC** to send HTTP POST requests with m
 - `ioc-list.txt`: Indicators of compromise (payload patterns, headers, URLs)
 
 ---
-
-## 📝 License
-
-This documentation is internal to Telstra Security Operations and intended for reference, training, and incident tracking.
-
----
-
-> 📌 For questions, contact the Telstra SOC team at `security-ops@telstra.com`
